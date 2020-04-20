@@ -60,7 +60,10 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
 
 }
 
-.like {font-size: 15px; font-weight: bold;}
+.like {font-size: 15px; font-weight: bolder;
+position: relative;
+left: -10px;
+}
 
 .follow {font-size: 15px;
 color: gray;}
