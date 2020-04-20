@@ -1,0 +1,172 @@
+
+
+
+
+body {background-color: lightgray;}
+header h1 {color: white;
+    font-size: 25px;
+position: relative;
+top: 265px;
+left: 200px;}
+
+header h3 {color: white;
+position: relative;
+top: 265px;
+left: 200px;}
+
+.backroundbox{height: 350px;
+width: 850px;
+background-color:#3b5998;
+margin: 0 auto;}
+
+
+.navbar {width: 850px;
+height: 50px;
+background-color: white;
+margin: 0 auto;}
+.navbar ul {display: inline;}
+.navbar ul li {
+list-style-type: none;
+display: inline;
+font-size: 18px;
+position: relative;
+top: 15px;
+left: 200px;
+padding: 5px;}
+
+.time {text-decoration: underline; 
+text-decoration-color:#3b5998 ;
+font-weight: bold;
+text-underline-position: under;
+}
+.link {border-right: dashed 1px black;}
+
+.profilepic {height: 175px;
+width: 175px;
+background-color:#3b5998;
+border: 1px solid black;
+position: relative;
+top: -195px;
+left :   340px;
+border-radius: 1.5%;}
+
+.buttons {list-style-type: none;
+display: inline;
+position: relative;
+top: -268px;
+left: 875px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+}
+
+.like {font-size: 15px; font-weight: bold;}
+
+.follow {font-size: 15px;
+color: gray;}
+.message {font-size: 15px;font-weight: bold;}
+.dots {font-size: 15px;font-weight: bold;}
+
+.body { 
+    width: 850px;
+    box-sizing: border-box;
+    margin: 10px auto 0 auto;
+    padding: 0;
+    columns: 2;
+    column-gap: 10px;
+    position: relative;
+    top: -212px;
+}
+
+.leftside {
+    float: left;
+height: 1000px;
+width: 328px;
+margin: 0 0 15px 0;
+clear: both;
+background-color:white;
+}
+
+.empty {width: 328px;
+height: 30px;
+background-color: white;
+border-bottom: solid lightgrey 4px;
+border-top: solid lightgrey 4px;
+font-size: 20px;
+
+}
+
+.about {
+    width:328px ;
+    height: 30px;
+    border-bottom: solid lightgrey 4px;
+    border-top:solid lightgrey 4px ;
+    font-size: 20px;
+}
+
+.address {
+    width: 328px;
+    height: 80px;
+    border-bottom:solid lightgray 4px;
+    border-top: solid lightgray 4px;
+    font-size: 20px;
+    padding: 10px;
+    
+}
+.photos { width: 328px;
+height: 400px;
+background-color: white;
+border-top: solid lightgrey 4px;
+border-bottom: solid lightgray 4px;
+}
+
+.photo{
+    width: 328px;
+    height: 30px;
+    font-size: 20px;
+    margin: 5px;
+    
+    
+}
+
+
+.boxes {width: 88px;
+height: 88px;
+background-color:#3b5998 ;
+float: left;
+margin: 10px;
+}
+
+
+
+.rightside {
+
+    float: right;
+    height: 1000px;
+    width: 512px;
+    margin: 0 0 15px 0;
+    clear: both;
+    background-color:lightgrey;
+}
+
+.pagename { width: 512px;
+height: 325px;
+background-color:white;
+border-top: solid lightgrey 4px;}
+.smallbox {width: 60px;
+height: 60px;
+background-color: #3b5998;
+float: left;
+color:#3b5998 ;
+margin:20px;}
+.bigbox { width: 512px;
+height: 225px;
+background-color:#3b5998; float: left;
+border-bottom: solid lightgrey 4px;
+}
+
+.textbox {width: 512px;
+height: 150px;
+background-color: white;
+border-top: solid lightgrey 4px;
+border-bottom: solid lightgrey 4px;}
